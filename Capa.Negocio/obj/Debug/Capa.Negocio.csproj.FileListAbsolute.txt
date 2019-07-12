@@ -1,0 +1,32 @@
+E:\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\Capa.Negocio.dll
+E:\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\Capa.Negocio.pdb
+E:\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\Capa.Datos.dll
+E:\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\EntityFramework.dll
+E:\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\Capa.Datos.pdb
+E:\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\EntityFramework.xml
+E:\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Portafolio\FerreteriaFerme\Capa.Negocio\obj\Debug\Capa.Negocio.csprojResolveAssemblyReference.cache
+E:\Portafolio\FerreteriaFerme\Capa.Negocio\obj\Debug\Capa.Negocio.dll
+E:\Portafolio\FerreteriaFerme\Capa.Negocio\obj\Debug\Capa.Negocio.pdb
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\Capa.Negocio.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\Capa.Negocio.pdb
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\Capa.Datos.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\EntityFramework.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\Capa.Datos.pdb
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\EntityFramework.xml
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\obj\Debug\Capa.Negocio.csprojResolveAssemblyReference.cache
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\obj\Debug\Capa.Negocio.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\obj\Debug\Capa.Negocio.pdb
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\Capa.Negocio.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\Capa.Negocio.pdb
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\Capa.Datos.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\EntityFramework.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\Capa.Datos.pdb
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\EntityFramework.xml
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\obj\Debug\Capa.Negocio.csprojResolveAssemblyReference.cache
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\obj\Debug\Capa.Negocio.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Negocio\obj\Debug\Capa.Negocio.pdb

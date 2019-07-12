@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="Capa.Presentacion.Master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Sistema Ferme Web</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+    <link href="css/starter-template.css" type="text/css" rel="stylesheet" />
+    <script type="text/javascript" src="js/bootstrap.min.js" ></script>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="container-fluid" style="margin-bottom:50px;">
+    <form id="form1" runat="server">
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+        <span class="navbar-brand">Ferreter&iacute;a Ferme</span> <span class="navbar-text"> Hola <asp:LoginName ID="LoginName1" runat="server" /></span>
+      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="nav">
+          <li class="nav-item">
+            <a class="nav-link" href="index-cliente.aspx">Inicio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="mis-ordenes-cliente.aspx">Mis &oacute;rdenes</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="mis-datos-cliente.aspx">Mis datos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="ver-carro.aspx">Ver carro <span id="totalcarro" class="badge badge-light">0</span></a>
+          </li>
+            <li class="nav-item">
+                <asp:LoginStatus ID="LoginStatus1" runat="server" CssClass="nav-link" OnLoggedOut="LoginStatus1_LoggedOut"/>
+            </li>
+        </ul>
+      </div>   
+         
+    </nav>  
+        <div class="row" style="margin-top: -24px;">
+              <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <div class="container-fluid fixed-bottom text-lg-center" style="height:50px; background-color:lightgreen">Sistema Ferme Web -  Duoc UC Padre Alonso de Ovalle - Portafolio 2018</div>
+    </div>
+</body>
+</html>

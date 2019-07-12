@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="aa7cfb3d4eb64a99ae587ea3b9336a33" Name="Diagram1">
+        <EntityTypeShape EntityType="FermeModel.ACCESO" Width="1.5" PointX="8.25" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="FermeModel.COMPRA" Width="1.5" PointX="5.25" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FermeModel.CONFIGURACION" Width="1.5" PointX="10.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FermeModel.DETALLE_COMPRA" Width="1.5" PointX="7.5" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="FermeModel.DETALLE_VENTA" Width="1.5" PointX="10.5" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FermeModel.FAMILIA_PRODUCTO" Width="1.5" PointX="0.75" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="FermeModel.LOG_PRECIO" Width="1.5" PointX="10.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FermeModel.PRODUCTO" Width="1.5" PointX="5.25" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FermeModel.PROVEEDOR" Width="1.5" PointX="3" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="FermeModel.TIPO_PRODUCTO" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FermeModel.USUARIO" Width="1.5" PointX="6" PointY="11.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FermeModel.VENTA" Width="1.5" PointX="8.25" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="FermeModel.VISITA" Width="1.5" PointX="0.75" PointY="11.75" IsExpanded="true" />
+        <AssociationConnector Association="FermeModel.ACCESO_PROVEEDOR_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="FermeModel.ACCESO_USUARIO_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="FermeModel.COMPRA_PROVEEDOR_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="FermeModel.DETALLE_COMPRA_COMPRA_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="FermeModel.DETALLE_COMPRA_PRODUCTO_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="FermeModel.DETALLE_VENTA_PRODUCTO_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="FermeModel.DETALLE_VENTA_VENTA_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="FermeModel.TIPO_PRODUCTO_FAM_PROD_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="FermeModel.PRODUCTO_TIPO_PRODUCTO_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="FermeModel.VENTA_USUARIO_FK" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

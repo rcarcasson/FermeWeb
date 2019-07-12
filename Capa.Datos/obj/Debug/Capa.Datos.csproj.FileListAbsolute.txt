@@ -1,0 +1,16 @@
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Datos\bin\Debug\Capa.Datos.dll.config
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Datos\bin\Debug\Capa.Datos.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Datos\bin\Debug\Capa.Datos.pdb
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Datos\bin\Debug\EntityFramework.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Datos\bin\Debug\EntityFramework.xml
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Datos\obj\Debug\Capa.Datos.csprojResolveAssemblyReference.cache
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Datos\obj\Debug\Capa.Datos.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Datos\obj\Debug\Capa.Datos.pdb
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Datos\bin\Debug\Capa.Datos.dll.config
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Datos\bin\Debug\Capa.Datos.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Datos\bin\Debug\Capa.Datos.pdb
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Datos\bin\Debug\EntityFramework.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Datos\bin\Debug\EntityFramework.xml
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Datos\obj\Debug\Capa.Datos.csprojResolveAssemblyReference.cache
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Datos\obj\Debug\Capa.Datos.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Datos\obj\Debug\Capa.Datos.pdb

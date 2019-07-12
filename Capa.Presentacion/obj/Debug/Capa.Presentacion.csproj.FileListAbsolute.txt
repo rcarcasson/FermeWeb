@@ -1,0 +1,78 @@
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\csc.exe
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\System.Collections.Immutable.dll
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\vbc.exe
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\VBCSCompiler.exe
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\VBCSCompiler.exe.config
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Presentacion.dll.config
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Presentacion.dll
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Presentacion.pdb
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Negocio.dll
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\EntityFramework.dll
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Datos.dll
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Negocio.pdb
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\EntityFramework.xml
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Datos.pdb
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\obj\Debug\Capa.Presentacion.csprojResolveAssemblyReference.cache
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\obj\Debug\Capa.Presentacion.dll
+E:\Portafolio\FerreteriaFerme\Capa.Presentacion\obj\Debug\Capa.Presentacion.pdb
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\csc.exe
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\vbc.exe
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\VBCSCompiler.exe
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Presentacion.dll.config
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Presentacion.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Presentacion.pdb
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Negocio.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\EntityFramework.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Datos.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Negocio.pdb
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\EntityFramework.xml
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Datos.pdb
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\obj\Debug\Capa.Presentacion.csprojResolveAssemblyReference.cache
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\obj\Debug\Capa.Presentacion.dll
+D:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\obj\Debug\Capa.Presentacion.pdb
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\csc.exe
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\System.Collections.Immutable.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\vbc.exe
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\VBCSCompiler.exe
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\roslyn\VBCSCompiler.exe.config
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Presentacion.dll.config
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Presentacion.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Presentacion.pdb
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Negocio.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\EntityFramework.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Datos.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Negocio.pdb
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\EntityFramework.xml
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\bin\Capa.Datos.pdb
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\obj\Debug\Capa.Presentacion.csprojResolveAssemblyReference.cache
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\obj\Debug\Capa.Presentacion.dll
+G:\Duoc\Quinto semestre\Portafolio\FerreteriaFerme\Capa.Presentacion\obj\Debug\Capa.Presentacion.pdb
